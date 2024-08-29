@@ -394,4 +394,4 @@ When you are finished, submit this repository to Gradescope. Congratulations on 
 
 Credits:
 
-_Portions of this assignment were adapted from CS110L at Stanford and cmsc388Z_
+_Portions of this assignment were adapted from CS110L at Stanford and cmsc388Z at UMD_
