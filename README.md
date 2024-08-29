@@ -336,7 +336,7 @@ The program exits either when you correctly complete the word or when you run ou
 Notes:
 
 - To print text without a newline, use `print!` instead of `println!`.
--
+
 - To compare values for equality, use `==`.
 
 - To read input from the user, you can write something like this:
