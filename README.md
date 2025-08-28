@@ -2,7 +2,7 @@
 
 ## Read Before You Start
 
-1. This assignment is due on **Friday, September 6th at 10pm**.
+1. This assignment is due on **Friday, September 4th at 10pm**.
 
 2. When you are finished, submit this repository on Gradescope. You can
    resubmit as many times as you like until the deadline.
@@ -37,10 +37,10 @@ following command to verify you've installed Rust successfully.
 
 ```shell
 $ rustc --version
-rustc 1.80.0 (051478957 2024-07-21)
+rustc 1.89.0 (29483883e 2025-08-04)
 ```
 
-(Your version number may be different. If it is lower than 1.80.0, run `rustup update`)
+(Your version number may be different. If it is lower than 1.89.0, run `rustup update`)
 
 Once you've verified your Rust install, you're ready to download the
 assignment. We'll distrbute assignments using Github template repositories. To
@@ -62,7 +62,7 @@ syntax. between the first lecture and its textbook reading we've covered everyth
 need, but if you get stuck feel free to use Google to supplement your
 understanding.
 
-> Note: _If you usually use Github Copilot or a similar editor-integrated tool, I recommend disabling it for this part of the assignment. The goal is to get practice writing Rust code and working through compiler errors that you might not be used to from other languages, and Copilot can shortcut that process and make you miss out on learning opportunities. Of course, ultimately the choice is up to you so long as you follow the [usage of AI policy](https://www.cis.upenn.edu/~cis1905/2024fall/syllabus/#usage-of-ai)_.
+> Note: _If you usually use Github Copilot or a similar editor-integrated tool, I recommend disabling it for this part of the assignment. The goal is to get practice writing Rust code and working through compiler errors that you might not be used to from other languages, and Copilot can shortcut that process and make you miss out on learning opportunities. Of course, ultimately the choice is up to you so long as you follow the [usage of AI policy](https://www.cis.upenn.edu/~cis1905/2025fall/syllabus/#usage-of-ai)_.
 
 ### sqrt
 
